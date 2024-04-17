@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">MarketPlace</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_keranjang">Keranjang</string>
+    <string name="title_profile">profile</string>
+    <string name="tw">TW</string>
+    <string name="admin_panel">Admin Panel</string>
+    <string name="mau_mulai_berbisnis">mau mulai berbisnis</string>
+    <string name="logout">Logout</string>
+    <string name="buka_toko_gratis">buka toko gratis</string>
+    <string name="email_gmail_com">email@gmail.com</string>
+    <string name="_0811111">0811111</string>
+    <string name="nizam_setiawan">Nizam Setiawan</string>
+    <string name="cari_produk_disini">cari produk disini</string>
 </resources>
